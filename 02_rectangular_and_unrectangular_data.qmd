@@ -8,11 +8,11 @@ format:
      papersize: a4
 ---
 
-# Rectangular Data
+# Rectangular and Non-Rectangualr Data
 
--   The typical frame of reference for an analysis in data science is a rectangular data
-    object, like a spreadsheet or database table
+## Rectangular Data
 
+-   The typical frame of reference for an analysis in data science is a rectangular data object, like a spreadsheet or database table.
 -   Rectangular data is the general term for a two-dimensional matrix with rows indicating records (cases) and columns indicating features (variables)
 
 -   Data frame is the specific format in R and Python.
@@ -24,9 +24,7 @@ format:
 ## Key Terms for Rectangular Data
 
 1.  Data frame
-    Rectangular data (like a spreadsheet) is the basic data structure for statistical and
-    machine learning models.
-
+    Rectangular data (like a spreadsheet) is the basic data structure for statistical and machine learning models.
 2.  Feature
     A column within a table is commonly referred to as a feature.
     Synonyms: attribute, input, predictor, variable
